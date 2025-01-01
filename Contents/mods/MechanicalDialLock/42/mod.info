@@ -1,0 +1,10 @@
+name=[B41/B42] Mechanical Dial Lock
+poster=poster.png
+id=MechanicalDialLock
+description=This mod brings in cool safes with old-school locks to your game. It's designed as a Framework mod that other creators can expand upon by developing addons for new safe designs.
+author=Elyon
+modversion=0.0.1
+tiledef=mechanical_dial_lock 2352
+pack=mechanical_dial_lock_safes
+tags=Build 42,Build 41,Misc,Multiplayer,Interface
+versionMin=42.0

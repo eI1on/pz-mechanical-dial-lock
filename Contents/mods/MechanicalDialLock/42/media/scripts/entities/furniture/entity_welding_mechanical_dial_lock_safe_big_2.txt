@@ -1,0 +1,63 @@
+module Base
+{
+	xuiSkin default
+	{
+		entity ES_KnoxVault_Safe_Big_2
+		{
+			LuaWindowClass	= ISEntityWindow,
+			DisplayName	= Knox Vault Safe Big 2,
+			Icon		= mechanical_dial_lock_safes_10,
+		}
+	}
+
+    entity KnoxVault_Safe_Big_2
+    {
+        component UiConfig
+        {
+            xuiSkin         = default,
+            entityStyle     = ES_KnoxVault_Safe_Big_2,
+            uiEnabled       = false,
+        }
+
+        component SpriteConfig
+        {
+            face E
+            {
+                layer
+                {
+                    row = mechanical_dial_lock_safes_10,
+                }
+            }
+
+            face S
+            {
+                layer
+                {
+                    row = mechanical_dial_lock_safes_11,
+                }
+            }
+        }
+        
+        component CraftRecipe
+        {
+            OnAddToMenu   = KnoxVaultSafeBig1Test,
+            timedAction   = BuildMetalStructureMedium,
+            time          = 200,
+            needToBeLearn = true,
+            SkillRequired = MetalWelding:8,
+            xpAward       = MetalWelding:20,
+            category      = Furniture,
+            tags          = Welding,
+            ToolTip       = Tooltip_craft_crateDesc,
+            inputs
+            {
+                item 6 [Base.BlowTorch] flags[Prop1],
+                item 6 [Base.SmallSheetMetal],
+                item 8 [Base.SheetMetal],
+                item 6 [Base.SteelBar],
+                item 15 [Base.ScrapMetal],
+                item 8 [Base.WeldingRods],
+            }
+        }
+    }
+}

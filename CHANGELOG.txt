@@ -1,0 +1,13 @@
+[list]
+[*]The mod is now compatible with Build 42.
+[*][b]Updated Safe Building Mechanics:[/b]
+[list]
+[*]For Build 42, the [i]Building Menu[/i] will no longer be required to build safes.
+[*]Safes are now integrated into the vanilla Build Menu.
+[*][u]Unlock Requirements:[/u]
+[list]
+[*][b]Large Safes:[/b] Automatically learned at [b]Metalworking Level 8[/b].
+[*][b]Small Safes:[/b] Automatically learned at [b]Metalworking Level 6[/b].
+[/list]
+[/list]
+[/list]
