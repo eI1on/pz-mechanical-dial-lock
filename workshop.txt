@@ -3,46 +3,46 @@ id=3137092954
 title=[B41/B42] Mechanical Dial Lock
 description=[h1] Mechanical Dial Lock [/h1]
 description=
-description= This mod brings in cool safes with old-school locks to your game. It's designed as a [b] Framework [/b] mod that other creators can expand upon by developing addons for new safe designs.
+description=This mod introduces functional safes with old-school mechanical dial locks. It's designed as a [b]framework[/b] mod, allowing other creators to expand it by creating addons with new safe designs.
 description=
+description=[h2]For Build 41:[/h2]
+description=To build the safes included in this mod, you'll need the [b]Building Menu[/b] mod. This mod is required to access and build safes in your game.
+description=[i]Note: Without the Building Menu mod, will not have access to the safes![/i]
 description=
-description=[b] FOR B41 [/b] To build the default safes that come with this framework, you'll need the [b]Building Menu[/b] mod. This prerequisite mod allows you to access and build the safes within your world.
-description= [i] Note: Without it you will not have access to the safes! [/i]
+description=[h2]For Build 42:[/h2]
+description=Safes are integrated into the vanilla Build Menu, no additional mods required.
 description=
-description=[b] FOR B42 [/b] Safes are integrated into the vanilla Build Menu.
 description=[u]Unlock Requirements:[/u]
 description=[list]
-description=[*][b]Large Safes:[/b] Automatically learned at [b]Metalworking Level 8[/b].
-description=[*][b]Small Safes:[/b] Automatically learned at [b]Metalworking Level 6[/b].
+description=[*][b]Large Safes:[/b] Learned automatically at [b]Metalworking Level 8[/b].
+description=[*][b]Small Safes:[/b] Learned automatically at [b]Metalworking Level 6[/b].
 description=[/list]
 description=
-description= [b] Animated Sprites:[/b] The sprite changes to reflect the safe's status: open or closed, providing a dynamic visual cue.
-description=
-description= [b] User-Friendly Instructions:[/b] Clear, step-by-step instructions are integrated within the mechanical lock UI, making it easy to understand.
+description=[hr][/hr]
+description=[h2]Features:[/h2]
+description=[b]1. Animated Sprites:[/b] The safes visually change to indicate their status (open/closed).
+description=[b]2. User-Friendly Interface:[/b] Clear, step-by-step instructions for the mechanical lock make it easy to use.
 description=
 description=[hr][/hr]
+description=
 description=[h1] Frequently Asked Question: [/h1]
 description=
 description=[h2] Is it compatible with Multiplayer? [/h2]
-description= Yes! Extensively tested and fully functional on MP servers.
+description=Yes! This mod has been tested extensively and works perfectly in B41 MP servers.
 description=
 description=[h2] Does it work on existing saves? [/h2]
-description= Absolutely! Enable it mid-save without issues.
+description=Yes! You can enable it mid-save without any issues.
 description=
 description=[h2] Does it work for all game versions? [/h2]
-description= Only tested and working on the latest game version (v41.78.16).
+description=It works with the latest game version ([b]v41.78.16[/b] and [b]v42.x[/b]).
 description=
-description=[hr][/hr]
-description=
-description=[h1] Important Note: [/h1]
-description=To avoid any hiccups, load the [b]Building Menu[/b] mod before this mod. This is essential for accessing the building features of the safes.
-description=
-description=[hr][/hr]
+description=[i] Important Note: [/i]
+description=If you're using Build 41, make sure to load the [b]Building Menu[/b] mod before this mod to access the safes.
 description=
 description=[url=https://discord.gg/asA9BuAasd] [img] https://raw.githubusercontent.com/eI1on/workshop_resources/main/workshop_images/Workshop_Desc_PZ_Modding_Disc.png [/img] [/url]
 description=[img] https://imgur.com/eZp8dXD.png [/img]
 description=[url=https://github.com/eI1on/pz-mechanical-dial-lock][img] https://raw.githubusercontent.com/eI1on/workshop_resources/main/workshop_images/Workshop_Desc_Github_Banner.png [/img][/url][url=https://ko-fi.com/ely0n][img] https://raw.githubusercontent.com/eI1on/workshop_resources/main/workshop_images/Workshop_Desc_Kofi.png [/img][/url]
-description=[url=https://github.com/eI1on/pz-mechanical-dial-lock/blob/main/DEVELOPMENT.md][img] https://raw.githubusercontent.com/eI1on/workshop_resources/workshop_images/Workshop_Desc_Framework.png [/img][/url]
+description=[url=https://github.com/eI1on/pz-mechanical-dial-lock/blob/main/DEVELOPMENT.md][img] https://raw.githubusercontent.com/eI1on/workshop_resources/main/workshop_images/Workshop_Desc_Framework.png [/img][/url]
 description=[quote=author]
 description=This mod's permissions fall under TIS's policy [url=https://theindiestone.com/forums/index.php?/topic/2530-mod-permissions/] On Lockdown [/url]
 description=This mod cannot be modified by anyone else, for anything else, at all, ever. Even if the user disappears, he or she would much rather you didn't touch the fruits of their hard labour.
